@@ -1,0 +1,17 @@
+{
+  "name": "cryptochat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Merve Birsin <merve.birsin.99@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/mervebirsinnn/CryptoChat",
+  "dependencies": {
+    "angular": "^1.7.7"
+  }
+}
